@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Student Study & Task Tracker")
+st.title("My Student Task Manager")
 
 task = st.text_input("Enter your task")
 
